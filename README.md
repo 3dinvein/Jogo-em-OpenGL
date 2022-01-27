@@ -1,9 +1,9 @@
 # Jogo-em-OpenGL
-<p>Jogos feito em OpenGL com uso da bilblioteca Glut32.</p> 
+Jogos feito em OpenGL com uso da bilblioteca Glut32.
 
-<p>Como IDE utilizei o CodeBlocks.</p>
+Como IDE utilizei o CodeBlocks.
 
-Versão de Windows:
+## Versão de Windows:
 
   Para executar os jogos você deve instalar as DLLs de 32 e 64 bits em seu windows.
 
@@ -11,6 +11,16 @@ Versão de Windows:
 
   A dll de 64 bits você colocará na pasta c:\Windows\System32  
 
-Obs: 
+## Observação: 
   Existe uma pasta de Glut-Dev, dentro dela tem arquivos que incluem o OpenGL + Glut32
   para compor a ferramenta dentro da sua IDE CodeBlocks.
+  
+# 1 - Jogo Mini Game 95 
+<p align="center"><img src="img-MG95/1.png" width="897px" height="667px"></p>
+<p align="center"><img src="img-MG95/2.png" width="897px" height="667px"></p>
+
+# 2 - Encaixe Perfeito
+<p align="center"><img src="img-fitting/1.png" width="897px" height="667px"></p>
+<p align="center"><img src="img-fitting/2.png" width="897px" height="667px"></p>
+<p align="center"><img src="img-fitting/3.png" width="897px" height="667px"></p>
+<p align="center"><img src="img-fitting/4.png" width="897px" height="667px"></p>
